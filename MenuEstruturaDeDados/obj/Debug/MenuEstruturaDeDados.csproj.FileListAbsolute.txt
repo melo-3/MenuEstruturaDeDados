@@ -1,0 +1,7 @@
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\obj\Debug\MenuEstruturaDeDados.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\obj\Debug\MenuEstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\bin\Debug\MenuEstruturaDeDados.exe.config
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\bin\Debug\MenuEstruturaDeDados.exe
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\bin\Debug\MenuEstruturaDeDados.pdb
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\obj\Debug\MenuEstruturaDeDados.exe
+C:\Users\Aluno\source\repos\MenuEstruturaDeDados\MenuEstruturaDeDados\obj\Debug\MenuEstruturaDeDados.pdb
